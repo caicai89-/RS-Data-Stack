@@ -2,7 +2,7 @@
 
 Steps:
 
-1. Request for data on EarthExplorer
+1. Request for Surface Reflectance data on EarthExplorer
 2. Receive email when data is ready
 3. Get the raw data from webside like the format 2015.txt
 4. use downloadData.py to get tar.gz file
